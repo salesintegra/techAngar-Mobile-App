@@ -1,5 +1,11 @@
 {
-  "name": "CarFaultScanner",
+  "author": {
+    "name": "Alpatov Aleksey",
+    "email": "aalpatov@list.ru",
+    "phone": "+79037411676",
+    "original": "Based on work by Asitha L Konara (https://github.com/AsithaLKonara/AI-Driven-Car-Fault-Code-Scanner-Mobile-App) under MIT License"
+  },
+  "name": "techAngar",
   "version": "0.0.1",
   "private": true,
   "scripts": {
